@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\DBHelper\BIN\DBHelper.dll
+C:\Users\admin\Desktop\DBHelper\BIN\DBHelper.pdb
+C:\Users\admin\Desktop\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\admin\Desktop\DBHelper\obj\Debug\DBHelper.pdb
